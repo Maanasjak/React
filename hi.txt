@@ -1,0 +1,14 @@
+      <div class="col">
+        <div class="card">
+          <img src="./img/dish1.jpg" class="card-img-top" alt="...">
+          <div class="card-body">
+            <h5 class="card-title">TIRAMISU CAKE</h5>
+            <p class="card-text">Lorem ipsum dolor sit amet consectetur adipisicing elit. Laboriosam
+              dignissimos accusantium amet similique velit iste.</p>
+          </div>
+          <div class="mb-5 d-flex justify-content-around">
+            <h3>190$</h3>
+            <button class="btn btn-primary">Buy Now</button>
+          </div>
+        </div>
+      </div>
